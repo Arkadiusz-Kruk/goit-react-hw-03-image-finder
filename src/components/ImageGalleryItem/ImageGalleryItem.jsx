@@ -30,3 +30,4 @@ ImageGalleryItem.propTypes = {
 };
 
 export default ImageGalleryItem;
+
