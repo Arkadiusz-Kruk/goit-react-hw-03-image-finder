@@ -30,4 +30,3 @@ ImageGalleryItem.propTypes = {
 };
 
 export default ImageGalleryItem;
-Footer
