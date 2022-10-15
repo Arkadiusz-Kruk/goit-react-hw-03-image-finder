@@ -44,7 +44,7 @@
   display: inline-block;
   width: 100%;
   font: inherit;
-  font-size: 20px;
+  font-size: 16px;
   background-color: #e4eff0;
   border: none;
   outline: none;
@@ -53,7 +53,7 @@
 }
 .input::placeholder{
   font: inherit;
-  font-size: 18px;
+  font-size: 16px;
 }
 .button {
   display: inline-block;
